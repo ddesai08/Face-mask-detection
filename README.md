@@ -3,6 +3,8 @@
 Introduction:
 
 Face mask detection had seen significant progress in the domains of Image processing and Computer vision, since the rise of the Covid-19 pandemic. 
+
+
 Dataset: 
 
 You can access the dataset from here. 
